@@ -1,5 +1,3 @@
-# Marc
-# First ever python application
 #A simple Python To do list
 
 #creating a function here to use for the view option.
@@ -27,3 +25,4 @@ def main():
             print("Not a valid selection! Try Again")
         
 main()
+
